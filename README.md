@@ -1,0 +1,1 @@
+# 2022-npc-become-active-when-player-near
